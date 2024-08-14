@@ -3,7 +3,7 @@
 * Set up config file for acces to Helm and Kubernetes Cluster(I added a examplel of this configuration: config.example) 
 * set value config_context (Cluster context)
 
-### Plan and apply the resources
+### Plan and apply the resources.
 
 First, we have to initialise the directory for Terraform with the following CLI command:
 ```
