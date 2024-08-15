@@ -6,7 +6,7 @@ on:
       - 'README.md'
 
 jobs:
-  dispatch:
+  dispatch-2:
     runs-on: ubuntu-latest
     steps:
       - name: Trigger target repository workflow
